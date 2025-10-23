@@ -1,2 +1,2 @@
-# job_board_application
-In this project, I will Design a platform where employers can post jobs and users can apply for them.
+# Portfolio website
+In this project, I will Design a web site to showcase all my projects as a portfolio.
